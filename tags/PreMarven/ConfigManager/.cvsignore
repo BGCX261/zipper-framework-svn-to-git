@@ -1,0 +1,9 @@
+manifest.txt
+.project
+.classpath
+Package.jardesc
+.settings
+bin
+Manifest
+PackageBin.jardesc
+PackageSrc.jardesc

@@ -1,0 +1,6 @@
+/BeansManager.java////*///
+/BeansManagerException.java////*///
+/BeansManagerPropertyException.java////*///
+/PersistBeansException.java////*///
+/RefreshBeansException.java////*///
+/UpdateBeansException.java////*///

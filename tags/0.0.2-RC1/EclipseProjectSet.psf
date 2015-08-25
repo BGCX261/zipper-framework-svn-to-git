@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.tigris.subversion.subclipse.core.svnnature">
+<project reference="0.9.3,https://fullservicevirtual.googlecode.com/svn/trunk/AuthorizatonAuthentication-Beans-base,AuthorizatonAuthentication-Beans-base"/>
+<project reference="0.9.3,https://zipper-framework.googlecode.com/svn/trunk/ConfigManager,ConfigManager"/>
+<project reference="0.9.3,https://zipper-framework.googlecode.com/svn/trunk/FacesUtils,FacesUtils"/>
+<project reference="0.9.3,https://zipper-framework.googlecode.com/svn/trunk/FullService-Base,FullService-Base"/>
+<project reference="0.9.3,https://zipper-framework.googlecode.com/svn/trunk/PersistenceUtils,PersistenceUtils"/>
+<project reference="0.9.3,https://zipper-framework.googlecode.com/svn/trunk/PersistenceUtils-Base,PersistenceUtils-Base"/>
+<project reference="0.9.3,https://zipper-framework.googlecode.com/svn/trunk/Zipper-Annotations,Zipper-Annotations"/>
+<project reference="0.9.3,https://zipper-framework.googlecode.com/svn/trunk/Zipper-JSF,Zipper-JSF"/>
+<project reference="0.9.3,https://zipper-framework.googlecode.com/svn/trunk/Zipper-ServiceLocator,Zipper-ServiceLocator"/>
+</provider>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" label="Zipper-Framework" name="Zipper-Framework">
+<item elementID="=FullService-Base" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FacesUtils" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zipper-JSF" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=PersistenceUtils" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AuthorizatonAuthentication-Beans-base" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=PersistenceUtils-Base" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ConfigManager" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zipper-ServiceLocator" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Zipper-Annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+</psf>
